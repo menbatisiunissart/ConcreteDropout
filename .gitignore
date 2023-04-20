@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pytorch_lightning logs
+*lightning_logs/
+
+# MNIST downloaded data
+*MNIST/
